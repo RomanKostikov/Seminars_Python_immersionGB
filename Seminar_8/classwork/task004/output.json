@@ -1,0 +1,17 @@
+[
+    {
+        "Access Level": "1",
+        "Identifier": "0000000111",
+        "Name": "Roman"
+    },
+    {
+        "Access Level": "1",
+        "Identifier": "0000000044",
+        "Name": "Pasha"
+    },
+    {
+        "Access Level": "2",
+        "Identifier": "0000001111",
+        "Name": "Alex"
+    }
+]
